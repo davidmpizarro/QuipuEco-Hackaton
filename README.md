@@ -1,16 +1,14 @@
 # ♻️ QuipuEco — Asistente de Reciclaje con IA para Lima
 
-> **Hackathon Tecsup 2026** · Equipo QuipuEco · Lima, Perú
+![QuipuEco Banner](public/images/quipueco-agente-v2.png)
 
-![QuipuEco Banner](public/images/quipueco-agente.png)
-
-QuipuEco es una aplicación web progresiva que usa **visión por computadora**, un **agente de voz conversacional** y **mapas en tiempo real** para ayudar a los limeños a reciclar correctamente sus residuos sólidos — conectándolos con la red de tiendas **Tambo+** y los **Centros Verdes municipales** de Lima Este.
+QuipuEco es una aplicación web progresiva que usa **visión por computadora**, un **agente de voz conversacional** y **mapas en tiempo real** para ayudar a los limeños a reciclar correctamente sus residuos sólidos, conectándolos con la red de tiendas **Tambo** y los **Centros Verdes municipales** de Lima.
 
 ---
 
 ## 🎯 Problema que resuelve
 
-Lima genera más de **9,000 toneladas de residuos sólidos al día**, pero la tasa de reciclaje formal es inferior al 2%. La barrera principal no es la falta de voluntad — es la falta de información en el momento correcto: ¿qué puedo reciclar? ¿dónde lo llevo? ¿cómo lo preparo?
+Lima genera más de **9,000 toneladas de residuos sólidos al día**, pero la tasa de reciclaje formal es inferior al 2%. La barrera principal no es la falta de voluntad, es la falta de información en el momento correcto: ¿qué puedo reciclar? ¿dónde lo llevo? ¿cómo lo preparo?
 
 QuipuEco responde esas tres preguntas en segundos, directamente desde el celular.
 
