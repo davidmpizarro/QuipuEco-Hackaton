@@ -2,7 +2,7 @@
 
 > **Hackathon Tecsup 2026** · Equipo QuipuEco · Lima, Perú
 
-![QuipuEco Banner](public/images/quipueco-agente-v2.png)
+![QuipuEco Banner](public/images/quipueco-agente.png)
 
 QuipuEco es una aplicación web progresiva que usa **visión por computadora**, un **agente de voz conversacional** y **mapas en tiempo real** para ayudar a los limeños a reciclar correctamente sus residuos sólidos — conectándolos con la red de tiendas **Tambo+** y los **Centros Verdes municipales** de Lima Este.
 
